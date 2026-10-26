@@ -118,8 +118,8 @@ flowchart LR
 
 ## Related project
 
-[FlowGuard AI](https://github.com/zm48713-cpu/flowguard-ai): automation failure diagnosis with n8n.
+[FlowGuard AI](https://github.com/zainismail-dev/flowguard-ai): automation failure diagnosis with n8n.
 
 ## Author
 
-**Zain Ismail** · [GitHub](https://github.com/zm48713-cpu) · zm48713@gmail.com
+**Zain Ismail** · [GitHub](https://github.com/zainismail-dev) · zm48713@gmail.com
